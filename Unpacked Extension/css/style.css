@@ -1,0 +1,19 @@
+body{
+	background-color: #06266F;
+	margin: 5px 20px;
+}
+p{
+	color: #6C8CD5;
+	font-weight: bold;
+	display: inline;
+}
+input[name="minutesInput"]{
+	width: 100px;
+}
+button{
+	background-color: #4671D5;
+	color: #FFFFFF;
+	-webkit-box-shadow: 0 0 4px rgba(0,0,0, .75);
+	box-shadow: 0 0 4px rgba(0,0,0, .75);
+	display: inline;
+}
